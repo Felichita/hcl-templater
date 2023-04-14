@@ -6,9 +6,8 @@ import (
 	"path/filepath"
 
 	"github.com/akamensky/argparse"
-//	"github.com/hashicorp/hcl/v2"
 
-	hclParser "github.com/p2p-org/hcl-templater/parser"
+	hclParser "github.com/felichita/hcl-templater/parser"
 )
 
 func main() {

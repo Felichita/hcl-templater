@@ -7,7 +7,7 @@ import (
 	"github.com/hashicorp/hcl/v2"
 	"github.com/hashicorp/hcl/v2/hclwrite"
 
-        "github.com/p2p-org/hcl-templater/utils"
+        "github.com/felichita/hcl-templater/utils"
 )
 
 // ParseHCLFile parses an HCL file and returns the resulting object

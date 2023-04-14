@@ -1,4 +1,4 @@
-module github.com/p2p-org/hcl-templater
+module github.com/felichita/hcl-templater
 
 go 1.20
 

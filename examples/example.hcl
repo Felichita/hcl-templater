@@ -12,6 +12,6 @@ locals {
   tencent_region = lookup(local.common_vars, "region",   "eu-frankfurt")
   gcp_region     = lookup(local.common_vars, "location", "europe-central2")
   rs_project     = "cosmos-tfstate"
-  project        = lookup(local.common_vars, "project", "dydx-testnet")
+  project        = lookup(local.common_vars, "project", "project")
   cloud          = lookup(local.common_vars, "gcp", "both")
 }

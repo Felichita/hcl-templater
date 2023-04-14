@@ -5,7 +5,7 @@ hcl-templater is a command-line tool for parsing HCL (Hashicorp Configuration La
 To install hcl-templater, you need to have Go (version 1.20 or later) installed on your system. Then, run the following command:
 
 ```
-go get github.com/p2p-org/hcl-templater
+go get github.com/felichita/hcl-templater
 ```
 
 This will download the source code and install the hcl-templater executable in your `$GOPATH/bin` directory.
